@@ -1,0 +1,11 @@
+D:\бабушка тирасполь\радилов 1\радилов 1\bin\Debug\netcoreapp3.0\радилов 1.exe
+D:\бабушка тирасполь\радилов 1\радилов 1\bin\Debug\netcoreapp3.0\радилов 1.deps.json
+D:\бабушка тирасполь\радилов 1\радилов 1\bin\Debug\netcoreapp3.0\радилов 1.runtimeconfig.json
+D:\бабушка тирасполь\радилов 1\радилов 1\bin\Debug\netcoreapp3.0\радилов 1.runtimeconfig.dev.json
+D:\бабушка тирасполь\радилов 1\радилов 1\bin\Debug\netcoreapp3.0\радилов 1.dll
+D:\бабушка тирасполь\радилов 1\радилов 1\bin\Debug\netcoreapp3.0\радилов 1.pdb
+D:\бабушка тирасполь\радилов 1\радилов 1\obj\Debug\netcoreapp3.0\радилов 1.csprojAssemblyReference.cache
+D:\бабушка тирасполь\радилов 1\радилов 1\obj\Debug\netcoreapp3.0\радилов 1.AssemblyInfoInputs.cache
+D:\бабушка тирасполь\радилов 1\радилов 1\obj\Debug\netcoreapp3.0\радилов 1.AssemblyInfo.cs
+D:\бабушка тирасполь\радилов 1\радилов 1\obj\Debug\netcoreapp3.0\радилов 1.dll
+D:\бабушка тирасполь\радилов 1\радилов 1\obj\Debug\netcoreapp3.0\радилов 1.pdb
