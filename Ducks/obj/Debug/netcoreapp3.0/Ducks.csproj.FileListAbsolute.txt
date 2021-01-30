@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\obj\Debug\netcoreapp3.0\Ducks.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\obj\Debug\netcoreapp3.0\Ducks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\obj\Debug\netcoreapp3.0\Ducks.AssemblyInfo.cs
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\bin\Debug\netcoreapp3.0\Ducks.exe
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\bin\Debug\netcoreapp3.0\Ducks.deps.json
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\bin\Debug\netcoreapp3.0\Ducks.runtimeconfig.json
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\bin\Debug\netcoreapp3.0\Ducks.runtimeconfig.dev.json
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\bin\Debug\netcoreapp3.0\Ducks.dll
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\bin\Debug\netcoreapp3.0\Ducks.pdb
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\obj\Debug\netcoreapp3.0\Ducks.dll
+C:\Users\User\Desktop\Радилов\Ducks\Ducks\obj\Debug\netcoreapp3.0\Ducks.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Dekorator/1.0.0": {
+        "dependencies": {
+          "Ducks": "1.0.0"
+        },
+        "runtime": {
+          "Dekorator.dll": {}
+        }
+      },
+      "Ducks/1.0.0": {
+        "runtime": {
+          "Ducks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dekorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ducks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
